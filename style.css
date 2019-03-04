@@ -1,0 +1,6 @@
+#mario{
+	width: 50px;
+	height: 69px;
+	background-image: url("image/spritesheet-mario.png");
+	position: absolute;
+}
